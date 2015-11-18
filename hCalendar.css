@@ -1,0 +1,8 @@
+/* http://microformats.org/wiki/hCalendar */
+div.vevent { display: none; }
+h3.summary { display: none; }
+p.description { overflow: hidden; }
+span.dtstart, span.dtend { font-size: smaller; }
+span.location { background: none; }
+span.uid { font-size: 2px; }
+span.dtstamp { text-overflow: ellipsis; }
